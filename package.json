@@ -1,0 +1,8 @@
+{
+  "name": "kocmoc-kafe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kocmoc-u/kocmoc-kafe.git",
+  "author": "kocmoc-u <coened.beef@gmail.com>",
+  "license": "MIT"
+}
